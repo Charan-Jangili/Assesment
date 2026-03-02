@@ -1,0 +1,4 @@
+project_id = "qppqmotcuzsvddwpsrso"
+
+[functions.generate-learning-plan]
+verify_jwt = false
